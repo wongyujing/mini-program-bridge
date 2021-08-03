@@ -1,0 +1,12 @@
+{
+  "name": "mini-program-bridge",
+  "version": "0.0.1",
+  "description": "Wechat mini program and Alipay mini program lib for webview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["mini program", "Wechat", "Alipay", "webview"],
+  "author": "wongyujing",
+  "license": "ISC"
+}
